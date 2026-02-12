@@ -11,7 +11,7 @@ let musicStarted = false;
 const messages = [
   "Cuando llegaste, todo cambió…",
   "Un momento donde no buscaba ninguna relacion…",
-  "pero con tu energia entro a mi vida…",
+  "pero tu y tu energia entraron a mi vida…",
   "dias", // 👈 contador intermedio
   "y todos estos momentos juntos🌸",
   "Los he disfrutado como nunca te imaginas ❤️",
@@ -110,4 +110,5 @@ function middleDaysMessage() {
 }
 
 // 💖 mensaje final
+
 
